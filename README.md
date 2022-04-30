@@ -2,7 +2,7 @@
 30.04.2022
 lesson 4. Git basics.
 *********************
-git add
+git add \n
 git status
 git commit
 git push
