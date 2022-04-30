@@ -3,8 +3,13 @@
 lesson 4. Git basics.
 *********************
 git add
+
 git status
+
 git commit
+
 git push
-git fetch 
+
+git fetch
+
 git pull
