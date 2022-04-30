@@ -1,6 +1,6 @@
 # test-repo
-30.04.2022
-lesson 4.
+created 30.04.2022
+during lesson 4.
  Git basics.
 *********************
 git add
